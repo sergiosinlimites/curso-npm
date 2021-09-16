@@ -15,12 +15,8 @@
   "author": "Sergio Andrés Bolaños Penagos <sergioandresbolanospenagos@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.15.0",
     "moment": "^2.29.1",
     "webpack": "^5.52.1"
-  },
-  "devDependencies": {
-    "date-fns": "^2.23.0"
   },
   "optionalDependencies": {
     "eslint": "^7.32.0"
